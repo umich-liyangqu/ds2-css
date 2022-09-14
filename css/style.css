@@ -50,11 +50,12 @@ img{
 
 ul{
   /* make bullet points red squares */
-  list-style: ;
+  list-style: square;
   color: red;
 }
 
 .footer{
   /* style the footer so it has a black background and white text */
-
+  color: white;
+  background-color: black;
 }
