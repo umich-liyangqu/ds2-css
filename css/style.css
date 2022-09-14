@@ -26,7 +26,7 @@ p{
 /* Part 2: And now debug..... */
 a{
   /* make your links red, use italics, and be underlined */
-  color: #D10000;
+  color: red;
   font-style: italics;
   decoration: underline;
 }
@@ -34,7 +34,7 @@ a{
 
 a:hover{
   /* make the background color of your link black and the text white when you hover over it */
-  color;
+  color: white;
   background-color: black;
 }
 
@@ -42,8 +42,9 @@ img{
   /* make the image 300px wide and 220px high, 10px of padding, and a 10px dashed border in the color of your choice */
   width: 300px;
   height: 220px;
-  padding: ;
+  padding: 10px;
   border: 10px #1ba550;
+  border-style: dashed;
 }
 
 
