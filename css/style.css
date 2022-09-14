@@ -2,16 +2,24 @@
 
 body{
   /* make all text courier, set margin and padding to 10px */
+  font-family: courier;
+  margin: 10px;
+  padding: 10px;
 }
 
 h1{
   /* make your headers 32px, #128ded color and bold */
-
+  font-size: 32px;
+  color: #128ded;
+  font=weight: bold;
 }
 
 p{
   /* make your paragraphs 14pt, double-spaced and 10px of padding on the left and right */
-
+  font-size: 14px;
+  left-padding: 10px;
+  right-padding: 10px;
+  line-height: 2;
 }
 
 
