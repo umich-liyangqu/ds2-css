@@ -17,8 +17,7 @@ h1{
 p{
   /* make your paragraphs 14pt, double-spaced and 10px of padding on the left and right */
   font-size: 14px;
-  left-padding: 10px;
-  right-padding: 10px;
+  padding: 0 10px 0 10px;
   line-height: 2;
 }
 
@@ -43,7 +42,8 @@ img{
   width: 300px;
   height: 220px;
   padding: 10px;
-  border: 10px #1ba550;
+  border: 10px;
+  border-color: #1ba550;
   border-style: dashed;
 }
 
